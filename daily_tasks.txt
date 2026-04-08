@@ -1,0 +1,14 @@
+Features
+goals:
+1-study
+2-exercise
+3-water intake
+4-calorie intake
+5-sleep
+6-hobby:
+	1-add hobby
+	2-add time
+7-book reading
+8-mental clarity:
+		1-two options meditation or journal
+		2- add time
